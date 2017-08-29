@@ -1,2 +1,3 @@
 # sample2
-sample2_project
+Sample2_File
+This is my second sample file..way to go !!!
